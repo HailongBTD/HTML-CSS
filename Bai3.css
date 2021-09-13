@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.shop{
+    display: flex;
+    justify-content: space-between;
+}
+.product{
+    width: 19%;
+}
+.productAvatar{
+    position: relative;
+}
+.bluetooth{
+    position: absolute;
+    width: 20%;
+    right: 0;
+    top: 0;
+}
+.discount{
+    color: white;
+}

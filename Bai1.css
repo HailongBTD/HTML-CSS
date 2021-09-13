@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sale{
+    position: relative;
+}
+.sale1{
+    position: absolute;
+    font-size: 70px;
+    bottom: 0;
+    color: black;
+    background: #fbddb3;
+}
+.giagoc{
+    position: absolute;
+    font-size: 70px;
+    bottom: -80px;
+    color: black;
+    text-decoration: line-through;
+}
+.sale2{
+    position: absolute;
+    font-size: 70px;
+    bottom: -200px;
+    color: red;
+}
